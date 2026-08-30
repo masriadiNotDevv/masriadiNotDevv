@@ -6,7 +6,10 @@
 # About me
 
 Information system student
+
 Programmer/web developer
+
+
 21 years old
 </div>
 
