@@ -4,10 +4,7 @@
 
   
 ### information system students || web developer || universitas sulawesi barat || 21 years old
-
 </div>
-
-
 <p>tech stack</p>
 
 
