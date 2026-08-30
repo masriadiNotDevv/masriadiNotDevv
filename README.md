@@ -1,4 +1,4 @@
-<div align="">
+<div align="center">
 <h2>hello world, im</h2>
 <img src="./20260830_161255.png" width="500"/>
 
