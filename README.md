@@ -3,14 +3,8 @@
 <img src="./20260830_161255.png" width="500"/>
 
   
-# About me
+# information system students || web developer || universitas sulawesi barat || 21 years old
 
-Information system student
-
-Programmer/web developer
-
-
-21 years old
 </div>
 
 
