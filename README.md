@@ -1,7 +1,10 @@
 <div align="">
 <h2>hello world, im</h2>
 <img src="./20260830_161255.png" width="500">
-
+# About me 
+Information system student
+Programmer/web developer
+21 years old
 </div>
 
 
