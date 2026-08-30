@@ -5,6 +5,7 @@
   
 ### information system students || web developer || universitas sulawesi barat || 21 years old
 </div>
+<div align="center">
 <p>tech stack</p>
 
 
@@ -19,3 +20,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+</div>
