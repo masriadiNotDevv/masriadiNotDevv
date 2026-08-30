@@ -4,8 +4,6 @@
 
 </div>
 
-# Hello word
-
 <div align="center">
 
 <p>tech stack</p>
