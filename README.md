@@ -3,7 +3,7 @@
 <img src="./20260830_161255.png" width="500"/>
 
   
-# information system students || web developer || universitas sulawesi barat || 21 years old
+### information system students || web developer || universitas sulawesi barat || 21 years old
 
 </div>
 
