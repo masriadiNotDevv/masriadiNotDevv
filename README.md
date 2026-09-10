@@ -2,7 +2,7 @@
 <img src="./anima.gif" width="700"/>
 
   
-### information system students || web developer || universitas sulawesi barat || 21 years old
+### Hello im masriadi :: FullStackWebDeveloper :: system information engineering :: 21yearsOld 
 </div>
 <div align="center">
 <p>tech stack</p>
