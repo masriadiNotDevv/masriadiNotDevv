@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./animate.gif" width="700"/>
+<img src="./anima.gif" width="700"/>
 
   
 ### information system students || web developer || universitas sulawesi barat || 21 years old
