@@ -1,6 +1,6 @@
 <div align="center">
 <h2>hello world, im</h2>
-<img src="./anim.gif" width="500"/>
+<img src="./anima.gif" width="500"/>
 
   
 ### information system students || web developer || universitas sulawesi barat || 21 years old
